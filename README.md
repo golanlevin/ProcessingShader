@@ -10,4 +10,4 @@ More resources for programming GLSL shaders in Processing:
 * [Gene Kogan, Processing Shader Examples](https://github.com/genekogan/Processing-Shader-Examples/)
 * [Florian Bruggisser, Processing PostFX shaders](https://github.com/cansik/processing-postfx)
 
-![screenshot](data/screenshot.png)
+![screenshot](processingShaderHelloWorld/data/screenshot.png)
